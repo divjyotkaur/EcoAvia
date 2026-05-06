@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.csv
+.DS_Store
+models/
+*.pkl
+*.pt
+*.ubj
+ecoavia.db
+.claude/settings.local.json
+*.pyc
+.pytest_cache/
+.mypy_cache/
